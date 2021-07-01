@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build:css": "tailwind build src/style.css -o dist/style.css"
+    "build:css": "tailwind build src/style.css -o public/style.css"
   },
   "keywords": [],
   "author": "",
